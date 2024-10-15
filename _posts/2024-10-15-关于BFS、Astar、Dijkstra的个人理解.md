@@ -1,3 +1,10 @@
+ ---
+ title: 关于BFS、Astar、Dijkstra的个人理解
+ date: 2024-10-15 12:00:00 +0800
+ categories: [Blog, Build]
+ tags: [blog]
+ ---
+
 原文：https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
 #### 图搜索算法
