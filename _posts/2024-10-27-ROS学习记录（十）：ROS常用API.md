@@ -80,7 +80,9 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
-__结果演示__:<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/option.png" alt="text" width="400" /></p>![alt text](image/十/option.png)
+__结果演示__:
+
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/option.png" alt="text" width="400" /></p>![alt text](image/十/option.png)
 
 ### 二、发布者对象
 
@@ -152,4 +154,6 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
-__结果演示__:<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/latch.png" alt="text" width="400" /></p>![alt text](image/十/option.png)
+__结果演示__:
+
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/latch.png" alt="text" width="400" /></p>![alt text](image/十/option.png)
