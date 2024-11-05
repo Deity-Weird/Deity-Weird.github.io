@@ -104,6 +104,7 @@ __latch__ 设置为 __true__ 的作用:
 __注：latch只会让订阅者接收最后一条消息__
 
 以下是一个示例代码及其结果演示
+
 ```cpp
 #include"ros/ros.h"
 #include"std_msgs/String.h"
@@ -154,6 +155,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 ```
+
 __结果演示__:
 
 <p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/latch.png" alt="text" width="400" />
