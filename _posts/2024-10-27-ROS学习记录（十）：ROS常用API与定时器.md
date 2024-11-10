@@ -82,7 +82,7 @@ int main(int argc, char *argv[])
 ```
 __结果演示__:
 
-<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/option.png" alt="text" width="400" />
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/option.png" alt="text" width="400" /></p>
 
 ### 二、发布者对象
 
@@ -158,7 +158,7 @@ int main(int argc, char *argv[])
 
 __结果演示__:
 
-<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/latch.png" alt="text" width="400" />
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/latch.png" alt="text" width="400" /></p>
 
 
 ### 三、回调函数
@@ -195,7 +195,7 @@ ROSCPP_DECL void spin();
 ### 四、时间
 
 __结果演示__：
-<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/time.gif" alt="text" width="400" />
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/time.gif" alt="text" width="400" /></p>
 
 #### 1.时间
 
@@ -404,4 +404,4 @@ __ros__ 中内置了与日志有关的函数，可以帮助我们更好的调试
 
 __结果演示__：
 
-<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/log.png" alt="text" width="400" />
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/log.png" alt="text" width="400" /></p>
