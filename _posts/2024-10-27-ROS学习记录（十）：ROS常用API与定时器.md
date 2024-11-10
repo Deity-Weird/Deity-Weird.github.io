@@ -195,7 +195,7 @@ ROSCPP_DECL void spin();
 ### 四、时间
 
 __结果演示__：
-<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/time.png" alt="text" width="400" />
+<p align = ""><img  src="../images/ROS学习记录（十）：ROS常用API/time.gif" alt="text" width="400" />
 
 #### 1.时间
 
