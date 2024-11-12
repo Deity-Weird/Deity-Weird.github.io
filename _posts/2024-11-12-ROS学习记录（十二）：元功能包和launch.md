@@ -1,5 +1,5 @@
 ---
-title: 2024-11-12-ROS学习记录（十二）：元功能包和launch
+title: ROS学习记录（十二）：元功能包和launch
 date: 2024-11-12
 categories: [ros,course]
 tags: [ros,course]
